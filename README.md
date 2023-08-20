@@ -1,6 +1,6 @@
 # G<sup>P</sup>P<sub>T</sub>
 
-_Generate on-the-fly slideshow presentations from a prompt, using Ch\*tGPT_
+_Generate stupid on-the-fly slideshow presentations (with fake but somewhat credible information) from a prompt, using Ch\*tGPT_
 
 ## Generative AI isn't cool
 
