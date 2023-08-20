@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="fr">
+    <head>
+        <title>Diapo</title>
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/reveal.min.css" integrity="sha512-V5fKCVKOFy36w8zJmLzPH5R6zU6KvuHOvxfMRczx2ZeqTjKRGSBO9yiZjCKEJS3n6EmENwrH/xvSwXqxje+VVA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/theme/beige.min.css" integrity="sha512-TMab4kRFcX7noCPLm2wsjjaMbRpYSn9xPMpXQPUCRoDNrVITC6cIFEuiT3XlsMV2CbANxI8ppXzVWJLONbQIOw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    </head>
+    <body>
+        <div class="reveal">
+            <div class="slides">

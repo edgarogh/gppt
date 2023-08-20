@@ -1,0 +1,20 @@
+[package]
+name = "gppt"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "gppt"
+path = "src/main.rs"
+
+[[bin]]
+name = "gppt-gen"
+path = "src/main-gen.rs"
+
+[dependencies]
+anyhow = "1.0"
+chatgpt_rs = "1.1.13"
+comrak = "0.18.0"
+names = { version = "0.14.0", default-features = false }
+rocket = "0.5.0-rc.3"
+tokio = { version = "1.32", features = ["macros", "rt-multi-thread"] }
