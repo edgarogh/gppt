@@ -8,7 +8,7 @@ use rocket::State;
 use tokio::sync::RwLock;
 use tokio::time::Instant;
 
-use magic_ppt::Generator;
+use gppt::Generator;
 
 const PPT_DIR: &str = "./ppt";
 const PROMPT: &str = include_str!("prompt.txt");
